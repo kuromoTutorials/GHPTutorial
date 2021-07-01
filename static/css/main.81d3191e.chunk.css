@@ -1,0 +1,2 @@
+#root,.App,body,html{margin:0;padding:0;height:100vh;background-color:#eee;overflow-y:auto}*{box-sizing:border-box}#mainWrap{min-height:calc(100vh - 3.25rem);padding:20px;background-color:#fafafa;box-shadow:0 0 9px 3px #ccc}.navbar{background-color:#ddd}a.navbar-item:hover{background-color:#ccc}#navCont{padding-right:.75rem}
+/*# sourceMappingURL=main.81d3191e.chunk.css.map */
