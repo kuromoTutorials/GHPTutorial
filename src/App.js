@@ -1,7 +1,12 @@
+import Nav from './components/Nav'
+
 function App() {
   return (
     <div className="App">
-      <h1>Howdy World!</h1>
+	    <Nav/>
+	    <div id="mainWrap" className="container">
+	      <h1 className="title">Howdy World!</h1>
+	    </div>
     </div>
   );
 }
